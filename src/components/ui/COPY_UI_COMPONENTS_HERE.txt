@@ -1,0 +1,17 @@
+⚠️ COPY YOUR UI FOLDER HERE ⚠️
+
+Copy the entire "ui" folder from your VS Code project.
+
+It should contain files like:
+- button.jsx
+- badge.jsx
+- tabs.jsx
+- dialog.jsx
+- select.jsx
+- checkbox.jsx
+- label.jsx
+- popover.jsx
+- calendar.jsx
+- sheet.jsx
+
+Just drag the whole "ui" folder from VS Code into this components folder!

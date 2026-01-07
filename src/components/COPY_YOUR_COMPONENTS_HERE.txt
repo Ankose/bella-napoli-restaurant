@@ -1,0 +1,20 @@
+⚠️ COPY YOUR COMPONENT FILES HERE ⚠️
+
+Copy these files from your VS Code project:
+
+- Navbar.jsx
+- HeroSection.jsx
+- WelcomeSection.jsx
+- MenuSection.jsx
+- ChefSpecialsSection.jsx
+- AboutSection.jsx
+- GallerySection.jsx
+- TestimonialsSection.jsx
+- ReservationSection.jsx
+- ContactSection.jsx
+- NewsletterSection.jsx
+- Footer.jsx
+- FloatingButtons.jsx
+
+Your code from VS Code is CORRECT!
+This project just needs the right configuration (which is already set up).

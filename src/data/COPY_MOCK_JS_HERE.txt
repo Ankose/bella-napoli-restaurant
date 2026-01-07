@@ -1,0 +1,11 @@
+⚠️ COPY mock.js HERE ⚠️
+
+Copy your mock.js file from VS Code that contains:
+- restaurantInfo
+- features  
+- menuCategories
+- menuItems
+- chefSpecials
+- timeline
+- testimonials
+- etc.

@@ -1,0 +1,5 @@
+⚠️ COPY App.js and App.css HERE ⚠️
+
+Copy both files from your VS Code project:
+- App.js (imports all components and renders them)
+- App.css (has all the custom styles)
